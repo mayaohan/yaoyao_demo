@@ -34,3 +34,5 @@ option = {
 };
 
 https://github.com/apache/incubator-echarts/blob/4.6.0/dist/echarts.min.js
+
+https://cdn.bootcdn.net/ajax/libs/echarts/4.8.0/echarts.min.js
