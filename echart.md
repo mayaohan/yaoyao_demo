@@ -32,3 +32,5 @@ option = {
         }
     ]
 };
+
+https://github.com/apache/incubator-echarts/blob/4.6.0/dist/echarts.min.js
